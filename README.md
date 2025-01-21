@@ -1,6 +1,6 @@
 # Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis
 
-![framework](https://github.com/CavitationDetection/HKG/blob/main/images/framework.png)
+![framework](https://github.com/CavitationDetection/DHK/blob/main/figs/losses.jpg)
 
 ## Requirements
 
