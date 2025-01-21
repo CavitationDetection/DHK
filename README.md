@@ -15,7 +15,7 @@ Note: our model is trained on a SLURM-managed server node with 2011G RAM, 128-co
 - train.py is the entry point to the code.
 - main.py is the main function of our model.
 - models/xxx.py is the network structure of our method (e.g. resnet.py, mobilenet_v2.py, vit.py and so on).
-- opts.py is all the necessary parameters for our method (e.g. comprehensive output factor, learning rate and data loading path and so on).
+- opts.py is all the necessary parameters for our method (e.g. factors, learning rate and data loading path and so on).
 - focal_/hiera_tree_loss.py is the hierarchical tree loss and focal hierarchical loss.
 - group_triplet_loss.py is the group tre triplet loss.
 - train/test_data_loader.py represents the loading of training and test datasets.
